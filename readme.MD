@@ -1,0 +1,1 @@
+Exemplo de uso de rotas e middlewares globais e locais
